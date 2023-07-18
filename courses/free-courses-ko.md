@@ -199,7 +199,6 @@
 ### Operation System
 
 * [운영체제](http://ocw.kookmin.ac.kr/?course=15329) (국민대 이시윤)
-* [운영체제](http://www.kocw.net/home/search/kemView.do?kemId=1194929) (고려대 최린)
 * [운영체제론](http://socw.skku.edu/Lectures/Regular/Detail.do) (성균관대 엄영익)
 
 
